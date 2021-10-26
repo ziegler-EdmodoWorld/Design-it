@@ -2,4 +2,5 @@
 This is the place to translate the book:"Design It From Programmer to Software Architect"
 
 I never heard this book before, i just need to do something for my daily task assigned from my boss.
-BTW, hopefully this is an interesting book!
+
+Hopefully this is an interesting book!
