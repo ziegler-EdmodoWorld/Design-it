@@ -7,7 +7,10 @@ Hopefully this is an interesting book!
 
 
 Markdown template:
-# Title
+
+\# Title
+
 English 
 
-*Translated chinese*
+\*Translated chinese\*
+
