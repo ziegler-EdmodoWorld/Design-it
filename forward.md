@@ -1,8 +1,6 @@
 # Foreword
 “When I picked up the final draft of this book, at first I was surprised to see that it was missing any mention of Agile software development. Michael and I have been chatting about this book for years now, and I thought I knew what the book was about and why it must be written: software architecture ideas, as traditionally described, have been hard to use in Agile processes, but Michael has figured out how to do just that. So how could “Agile” not be on every page of the book?
 
-*
-当我最终拿起这本书的终稿时,一开始我吃惊的发现里面居然没有提到任何有关敏捷开发的内容.Michale和我已经就这本书讨论了大概几年了,我认为我很清楚为什么要写这本书以及这本书的主题:软件架构的概念,从传统意义上讲是很难应用到敏捷开发流程中的,但是Michael已经想出了怎么来做到这一点.所以奇怪的是"敏捷"怎么会没出现在这本书的每一页中呢?
-*
+*当我最终拿起这本书的终稿时,一开始我吃惊的发现里面居然没有提到任何有关敏捷开发的内容.Michale和我已经就这本书讨论了大概几年了,我认为我很清楚为什么要写这本书以及这本书的主题:软件架构的概念,从传统意义上讲是很难应用到敏捷开发流程中的,但是Michael已经想出了怎么来做到这一点.所以奇怪的是"敏捷"怎么会没出现在这本书的每一页中呢?*
 
 Michael is a modern Prometheus, fascinated by technology and determined to tame it for all of humanity. He is a true believer in the benefits of Agile and an expert in software architecture. I know of no one else who was walking the walk as an Agile team leader during the day while mentoring Carnegie Mellon software architecture students at night. I know him best through our involvement in the SATURN software architecture conference, where he has brought ideas and thought leaders from the Agile community to rub elbows with the architecture community. He has been looking for the best of both worlds, a mixture of Agile and architecture that is not oil and water.
