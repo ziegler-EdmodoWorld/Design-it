@@ -18,3 +18,9 @@ This book is a different, better synthesis of Agile and architecture, which is w
 The same thought leaders who 推翻 官僚的 software processes also 警告 us that Agile was not a 伪装 for 散漫的"牛仔程序员". Those bureaucratic pre-Agile processes were, for the most part, disciplined, and you knew which design activities you should do and when. Despite teams self-reporting that they are following Agile processes, my experience is that there is a lot of undisciplined cowboy coding happening today.
 
 *那些推翻了官僚的软件开发流程的具有同样想法的领路人警告我们说敏捷并不是散漫的"牛仔式编程"的伪装.那些官僚的"前敏捷"流程在大多时候都是包含一些死板的且显而易见的一些事情.但那些实行自我管理的敏捷团队,以我的经验看来直到今天仍然有大量的散漫的"牛仔式编程".*
+
+Now that this book exists, the question is: what happens next? It is hard to make predictions, especially about the future, but here is what I foresee. We are on the cusp of a transition to a stable state of software development where we have learned to blend agility and discipline. Our processes will use the quick feedback loops popularized by Agile and will guide us to design techniques that drive quality. Unmistakably, they will be software processes, with activities and techniques uniquely appropriate for software development.
+We are not there yet, but this book moves us in that direction. Let’s go build the future we want to live in.
+
+*现在这本书面世了,那接下来呢?虽然预测未来是一件非常困难的事情,但我也有自己的见解.我们正处于往一种稳定且融合的敏捷和纪律的稳定的软件开发流程过渡的时期.我们设计的流程会利用敏捷开发的反馈来引导我们做出高质量的技术设计.毫无疑问的是,这将是一种将和技术融合的非常好的软件开发流程.
+我们还没有到达理想之地,但这本书给我们指引了方向.让我们亲手打造一个我们想要的未来吧.*
