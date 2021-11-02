@@ -24,3 +24,8 @@ We are not there yet, but this book moves us in that direction. Let’s go build
 
 *现在这本书面世了,那接下来呢?虽然预测未来是一件非常困难的事情,但我也有自己的见解.我们正处于往一种稳定且融合的敏捷和纪律的稳定的软件开发流程过渡的时期.我们设计的流程会利用敏捷开发的反馈来引导我们做出高质量的技术设计.毫无疑问的是,这将是一种将和技术融合的非常好的软件开发流程.
 我们还没有到达理想之地,但这本书给我们指引了方向.让我们亲手打造一个我们想要的未来吧.*
+
+George Fairbanks
+Author of Just Enough Software Architecture
+
+*乔治 菲尔班克斯 <恰如其分的软件架构>的作者*
