@@ -25,3 +25,16 @@ If you’re a programmer who already knows a thing or two about architecture, th
 
 If you’re already a software architect and this isn’t your first rodeo, then this book will give you a fresh perspective on how to lead your team. The junior programmers of today expect to have a greater say in the software they build. The focus on fundamentals in this book will prepare you to teach and mentor today’s programmers—the architects of tomorrow—so they can fully participate in the design process. The collaborative design approaches described throughout this book will give you new techniques for safely and productively collaborating with less experienced teammates as you design a software system together.
 *如果你已经是一名有经验的架构师,那本书会给你一个全新的视角去学习怎样代理你的团队.现在的年轻程序员希望能在项目中有更大的发言权,而本书所聚焦的内容会帮你去教会当下的程序员未来的软件架构,这样他们就可以完全参与到设计过程中来.本书提及的协作设计方法教会你如何与缺乏经验的队友高效而低风险地一起进行软件设计工作.*
+
+#How to Read This Book
+This book is divided into three parts. Parts I and II are designed to be read start to finish. Part III is designed for easy reference.
+*本书分为三个部分,第一二部份建议从头到尾全部阅读,第三部分包含了本书的引用.*
+
+In Part I you’ll learn the basics of software architecture and design thinking needed to become an architect.
+In Part II you’ll learn the essential skills and knowledge all software architects possess.
+*在第一部分你会学到软件架构的基础和架构师的思维模式.第二部分学习软架构师所必需的技能和知识.*
+Part III includes a set of practical architecture design methods. There are no silver bullets, but every software engineer has a silver toolbox filled with practices, methods, and techniques that together allow them to ship amazing software. The methods in Part III come from my silver toolbox and it is my privilege to share them with you.
+*第三部分包含一系列的架构设计方法.虽然没有银弹,但是每个工程师都有装满了自己的经验,方法论以及技术能力的百宝箱,这让他们能创造出优秀的软件.第三部分的的内容就是我自己的百宝箱,很乐意跟大家来分享.*
+
+Each chapter in Parts II and III focuses on a different design mindset, which you’ll learn more about in Chapter 2, ​Design Thinking Fundamentals​. Design mindsets are a way of thinking about the world to help us focus our attention on the right details at the right time. There are four design mindsets: understand, explore, make, and evaluate. Look for the icon at the start of each chapter to tell you which mindset you’ll be learning about next.
+*第二部分和第三部分的每一章都聚焦在不同的思维模式上,在第二章‘设计思维基础’中会详细的介绍.思维模式是对整个世界的思考,让我们能在正确的时间专注于正确的事情上.有四种不同的思维模式:理解,探索,实践和演进.每章开头都有一个图标告诉你正在学习的思维模式是什么.*
