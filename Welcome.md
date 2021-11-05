@@ -27,6 +27,7 @@ If you’re already a software architect and this isn’t your first rodeo, then
 *如果你已经是一名有经验的架构师,那本书会给你一个全新的视角去学习怎样代理你的团队.现在的年轻程序员希望能在项目中有更大的发言权,而本书所聚焦的内容会帮你去教会当下的程序员未来的软件架构,这样他们就可以完全参与到设计过程中来.本书提及的协作设计方法教会你如何与缺乏经验的队友高效而低风险地一起进行软件设计工作.*
 
 #How to Read This Book
+
 This book is divided into three parts. Parts I and II are designed to be read start to finish. Part III is designed for easy reference.
 *本书分为三个部分,第一二部份建议从头到尾全部阅读,第三部分包含了本书的引用.*
 
