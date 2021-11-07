@@ -16,3 +16,12 @@ Software architects have a number of responsibilities in addition to programming
 In this chapter, you’ll learn what architects do. You’ll also learn why knowing about software architecture will make you a better programmer and technical leader. You’ll also learn how to get started on the path to becoming a software architect in your professional career.
 
 *在本章中,你会学习到架构师的职责.你也会了解为什么熟悉软件架构师的工作会帮助你成为一个名更出色的程序员或者技术经理.同时你会学会怎样在职业道路中开始朝架构师的目标前进.*
+
+### What Software Architects Do
+Software architects are in a unique position on the team. They aren’t project managers, but architects decide when and how software is delivered. They aren’t product managers, but architects make sure the software meets its business goals. They write code, but architects design more than only algorithms and code. Software architects have a distinct set of responsibilities and are seemingly at the center of everything.
+
+*软件架构师在团队的作用是独一无二的,他们不是项目经理但是却可以决定如何以及在什么时候交付产品.他们不是产品经理但是架构师却需要确保软件能符合业务需求.他们还需要编写代码,但是架构师更多的时候是在从事设计工作而不是仅仅专注于代码和算法.软件架构师有着一系列清晰的职责,看起来他们就是一切的核心.*
+
+Most of us start our software careers focusing purely on technology. Knowing how to program, design efficient algorithms, test that everything works, and deploy software are all essential skills for software architects too. Growing from programmer to software architect requires you to accept some new responsibilities.
+
+*大多数架构师都是从单纯技术层面开始的,比如编码,设计高效的算法,测试以及部署都是架构师必需的技能.但是从程序员到架构师需要你承担新的职责.*
