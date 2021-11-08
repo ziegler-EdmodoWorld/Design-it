@@ -22,6 +22,20 @@ Software architects are in a unique position on the team. They aren’t project 
 
 *软件架构师在团队的作用是独一无二的,他们不是项目经理但是却可以决定如何以及在什么时候交付产品.他们不是产品经理但是架构师却需要确保软件能符合业务需求.他们还需要编写代码,但是架构师更多的时候是在从事设计工作而不是仅仅专注于代码和算法.软件架构师有着一系列清晰的职责,看起来他们就是一切的核心.*
 
+### Define the Problem from an Engineering Perspective
+
+Software architecture design is a human-centered design discipline. Everyone with a stake in the software can help you understand what is expected of it. Software architects work with product managers, project managers, and other stakeholders to define business goals and requirements for the software to be built.
+
+*软件架构是一种以人为中心的设计原则,每个参与者都可以帮你了解到他们想要的东西.架构师和产品经理,项目经理以及其他相关参与者一起定义业务目标和软件需求.*
+
+On many teams, product managers define the features. Features are great, but there is another kind of requirement called a quality attribute that architects care the most about. In addition to defining quality attributes for the system, architects keep an eye out for design constraints and features that might force the architecture down a specific path.
+
+*在很多团队中,产品经理负责定义功能,功能确实很重要,但是有另外一种功能叫做质量属性,这才是架构师最关注的点.除了考虑系统的质量属性,架构师同样会密切关注那些可能让架构倒退的设计要求和功能.*
+
+Defining the problem with the architecture in mind ensures you can build a system everyone wants. You’ll learn how architects approach requirements Dig for Architecturally Significant Requirements in chapter 5.
+
+*时刻注意架构中的问题可以让你创建一个大家都满意的系统.你也会在第五章学到架构师如何提炼需求.*
+
 Most of us start our software careers focusing purely on technology. Knowing how to program, design efficient algorithms, test that everything works, and deploy software are all essential skills for software architects too. Growing from programmer to software architect requires you to accept some new responsibilities.
 
 *大多数架构师都是从单纯技术层面开始的,比如编码,设计高效的算法,测试以及部署都是架构师必需的技能.但是从程序员到架构师需要你承担新的职责.*
