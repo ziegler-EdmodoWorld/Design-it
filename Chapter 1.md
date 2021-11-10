@@ -58,3 +58,16 @@ Partitioning a system is important not just because it lets you develop a strate
 
 *把一个系统拆解开不只是能为满足质量属性而更好的去制定策略,细颗粒的事物可以更好的描述,更方便的测试,更容易设计.当然最重要的是当你把系统拆解开后你要保证它们能在一起完美的配合工作.*
 
+### Keep an Eye on the Bigger Picture
+
+Every software system lives in the context of a bigger world. The world in which software lives includes the users who interact with it, the team who builds it, the hardware it runs on, and even the purpose for developing the software in the first place. Ideally, the architecture lives harmoniously within this broader context.
+
+*每个软件系统都对应更大的外部世界的各种场景,包括使用系统的用户,开放系统的团队,运行软件的硬件,甚至最开始开放这款软件的初衷.理想状态下,软件架构应该和这种广泛的背景和谐共存.*
+
+Thinking about the system as a whole means architects deal with more than just technology. People, processes, business needs, and many other technical and nontechnical factors play a part in the final software system. Even simple design decisions can have far-reaching consequences. Architects must look beyond a small neighborhood of design decisions and think about the system as a whole.
+
+*更宏观地看待软件系统软件而不是仅仅限于技术角度,用户,流程,业务需求以及其他技术和非技术的因素都是最终交付的软件系统的一部分.甚至一个简单的技术设计都可能产生长远的影响.架构师必须以更长远的眼光来宏观地撕开整个系统.*
+
+Software design is a constant struggle to find the right balance between the things you want and the reality you must accept. This means you must think about and make trade-offs.
+
+*软件设计是一个不断进取而在需求和现实之间平衡的工作,这意味着你必须思考和权衡利弊.*
