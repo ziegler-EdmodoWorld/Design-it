@@ -71,3 +71,17 @@ Thinking about the system as a whole means architects deal with more than just t
 Software design is a constant struggle to find the right balance between the things you want and the reality you must accept. This means you must think about and make trade-offs.
 
 *软件设计是一个不断进取而在需求和现实之间平衡的工作,这意味着你必须思考和权衡利弊.*
+
+### Decide Trade-offs among Quality Attributes
+Say high availability is an important quality attribute for your stakeholders and you need your software to respond to 99.9 percent of requests. One way to promote availability is to introduce redundant elements. Designing for this is simple, but there’s a catch. You now must purchase twice the hardware, which doubles your costs. In this case, you traded costs to get higher availability.
+
+*假如高可用性是大家很关心的一个质量属性而且你的系统需要能响应99.9%的请求,第一个保证可用性的办法是引入冗余的节点,这种在设计上很简单,但是有一个缺点就是你必须买两份硬件资源,成本也加倍了.这样相当于用成本换可用性.*
+
+It is common in software development to give up something you want to get something you need. Architects identify the trade-offs and work with stakeholders to decide which compromises make the most sense.
+
+*在软件开发中这种做出一些牺牲来获取自己需要的东西的做法很常见,架构师需要识别出这种需要权衡的地方然后和大家一起决定怎样做出最佳的决策.*
+
+Software systems are never partitioned perfectly. You’ll make compromises. You’ll make mistakes. As you build the system, you’ll introduce technical debt into the architecture.
+
+*软件系统永远不可能完美,你会做出妥协,也会犯错,而随着系统的搭建过程,你会在架构中引入技术债务.*
+
