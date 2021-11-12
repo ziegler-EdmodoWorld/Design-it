@@ -85,3 +85,16 @@ Software systems are never partitioned perfectly. You’ll make compromises. You
 
 *软件系统永远不可能完美,你会做出妥协,也会犯错,而随着系统的搭建过程,你会在架构中引入技术债务.*
 
+### Manage Technical Debt
+
+Software architects know the details about how the system is partitioned. They keep an eye on the big picture and guide how everything comes together. They also connect technology decisions with thing comes together. They also connect technology decisions with business needs. Knowing all this puts architects in the perfect position to manage technical debt.
+
+*架构师知道系统是怎样切分的,他们会统筹全局并指导怎样让每个部分能结合在一起工作,他们会全盘考虑技术决策,会把技术决策和业务需求结合起来,只有这样架构师才能在胜任管理技术债务的工作.*
+
+Technical debt is the gap between your software system’s current design and the design you need it to have so you can continue to deliver value. You can measure the amount of technical debt by estimating the effort required to close that gap. All software has technical debt. Technical debt is an inevitable byproduct of success. The best software development teams use technical debt strategically to ship faster and regularly pay debt down so they can continue shipping value over time.
+
+*技术债务就是横亘在当前系统的设计决策和未来为了持续交付而需要的技术设计之间的鸿沟,你可以通过计算填补这个鸿沟所需要的工作量来衡量当前的技术债务,所有的技术债务都是获得成功而所不可避免产生的附属品,优秀的开发团队指定合理的技术债务管理策略来更快的交付同时定时的偿还一部分债务,这样保持持续的交付能力.*
+
+Architects make technical debt visible and help stakeholders decide which actions to take to manage it.
+
+*架构会让技术债务变的可见并帮助相关人员决定采取怎样的行动来管理这些债务.*
