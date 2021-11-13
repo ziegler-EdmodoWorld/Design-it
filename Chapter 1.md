@@ -98,3 +98,17 @@ Technical debt is the gap between your software system’s current design and th
 Architects make technical debt visible and help stakeholders decide which actions to take to manage it.
 
 *架构会让技术债务变的可见并帮助相关人员决定采取怎样的行动来管理这些债务.*
+
+### Grow the Team’s Architecture Skills
+
+Software architects are teachers and mentors for their teams. There is no use in designing an awesome architecture that nobody can understand. As the architecture expert on your team, it is your responsibility to share your knowledge with your team so they can successfully develop an amazing software system.
+
+*软件架构师是团队的老师和领路人,没法让人容易理解的架构是没有用的,作为团队的架构专家,你的职责就是把你的知识分享给团队成员让他们能成功的开发出杰出的软件系统.*
+
+Architects teach design skills and architecture concepts just-in-time. To pass on your knowledge, you’ll pair design with teammates, create documents that educate and inform, and share constructive criticism. Perhaps the most important thing you can do to grow the team’s architecture skills is to include them in the design process. Architecture design is a social activity. Skills development is crucial to your team’s success.
+
+*架构师随时可能传授设计技巧和架构概念,为了传递技能,你可以和团队成员结对工作,编写相关的文档,然后分享有建设性的意见.最有效的提升团队成员的架构技能的办法大概就是让他们参与到设计过程中,架构设计是一个社会活动,团队要想取得成功技能的提高是非常重要的.*
+
+Now you know what architects do, but we haven’t defined what we mean by software architecture yet. Let’s do something about that now.
+
+*现在你知道架构师是做什么的了,但我们还没有给软件架构做出定义,这是我们接下来要做的.*
