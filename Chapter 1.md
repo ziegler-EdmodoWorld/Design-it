@@ -112,3 +112,17 @@ Architects teach design skills and architecture concepts just-in-time. To pass o
 Now you know what architects do, but we haven’t defined what we mean by software architecture yet. Let’s do something about that now.
 
 *现在你知道架构师是做什么的了,但我们还没有给软件架构做出定义,这是我们接下来要做的.*
+
+### What Is Software Architecture?
+
+A system’s software architecture is the set of significant design decisions about how the software is organized to promote desired quality attributes and other properties.
+
+*软件架构就是一系列推动系统满足必须的质量属性和其他功能的重要决策.*
+
+A design decision might be significant for any number of reasons. It might represent a point of no return or influence quality attributes, schedule, or costs. A significant decision might be one that affects many people or forces other software systems to change. In any case, significant design decisions are costly to change later if you get them wrong.
+
+*一个技术设计决策可能在很多方面体现出它的重要性,可能代表了一个没有回报的付出或者影响相关的质量属性,工作安排和成本.重要的技术决策可能会影响很多人,可能会迫使别个软件系统不得不做出改变,不管怎么样,重要的技术设计决策在未来做改动的成本是非常高的.*
+
+To promote a quality attribute means to encourage it to appear in the software system. When the architecture is well organized, it will boost the quality attributes stakeholders want and downplay or eliminate the quality attributes stakeholders don’t want. Architecture can promote other properties too. For example, the right architecture for the job will let you ship on time, on budget, and without requiring too much overtime.
+
+*提高某种质量属性意味着尽量使其在软件系统中被呈现出来,当软件架构被组织的很好时,它就会促使相关的人员将他们不需要的质量属性移除或者淡化.软件架构同样可以促进其他方面的价值,比如正确的架构可以让交付更及时,满足预算,而且不会要求太多的加班.*
