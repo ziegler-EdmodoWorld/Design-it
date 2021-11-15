@@ -126,3 +126,17 @@ A design decision might be significant for any number of reasons. It might repre
 To promote a quality attribute means to encourage it to appear in the software system. When the architecture is well organized, it will boost the quality attributes stakeholders want and downplay or eliminate the quality attributes stakeholders don’t want. Architecture can promote other properties too. For example, the right architecture for the job will let you ship on time, on budget, and without requiring too much overtime.
 
 *提高某种质量属性意味着尽量使其在软件系统中被呈现出来,当软件架构被组织的很好时,它就会促使相关的人员将他们不需要的质量属性移除或者淡化.软件架构同样可以促进其他方面的价值,比如正确的架构可以让交付更及时,满足预算,而且不会要求太多的加班.*
+
+### Define the Essential Structures
+
+A skyscraper has a foundation and frames. A body has bones. Software has structures. A structure defines how a software system is arranged. Structures are in the code you write, the software you run, and even your collaborations with other people.
+
+*建造一栋摩天大楼需要地基和框架,人体需要骨骼,而软件有它的结构.软件的结构决定了系统是怎样被组织起来的.结构存在于你编写的代码中,也存在于你使用的软件以及你和其他人的合作之中.*
+
+To create a structure, take any element and connect it to another element using a relation. Think of elements and relations like the bricks and mortar of software. The bread and peanut butter. The duct tape and…well, you get the idea. Elements are the fundamental building blocks of software. Relations describe how elements work together to accomplish some task.
+
+*创造一个结构的过程就是找一个元素然后把它和另外的元素通过某种关系连接起来,可以把软件的元素和关系想象成砖块和水泥或者面包和黄油或者胶带和...,你应该已经明白这点了,元素是软件的基础建筑模块,模块之间的关系描述了模块怎样通过合作来完成任务.*
+
+It’s easy to design an architecture on paper with no bearing on reality. To avoid this trap, you’ll build architectures using three types of elements and relations. Software Architecture in Practic defines these three types as module, component and connector (C&C for short), and allocation. To create a structure, combine elements and relations of the same type.
+
+*脱离现实的来在纸上画出一个软件架构设计师很容易的,为了避免这样你需要通过使用三种元素和关系,"软件架构实践"这章讲解了这三种元素类型:模块,组件,连接器(简称C&C)以及如果使用他们.我们通过把相同类型的元素组合连接起来来创造一个系统结构.*
