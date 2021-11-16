@@ -140,3 +140,15 @@ To create a structure, take any element and connect it to another element using 
 It’s easy to design an architecture on paper with no bearing on reality. To avoid this trap, you’ll build architectures using three types of elements and relations. Software Architecture in Practic defines these three types as module, component and connector (C&C for short), and allocation. To create a structure, combine elements and relations of the same type.
 
 *脱离现实的来在纸上画出一个软件架构设计师很容易的,为了避免这样你需要通过使用三种元素和关系,"软件架构实践"这章讲解了这三种元素类型:模块,组件,连接器(简称C&C)以及如果使用他们.我们通过把相同类型的元素组合连接起来来创造一个系统结构.*
+
+Module structures exist at design time. You interact with module structures when you write code. Module structures live on the file system and stick around even when the software is not running.
+
+*模块结构是在设计阶段确定的,不同模块通过编码产生交互,模块结构是存放在文件系统中的,即使软件没有运行起来也是存在的.*
+
+Component and connector structures come into existence at runtime. At runtime, components can create connections to other components, spawn new processes, and instantiate new objects. Unlike module structures, C&C structures cease to exist when the system is not running. You might only know a C&C structure existed from the artifacts it left behind, such as a log file or database entry.
+
+*组件和连接器结构只有在运行时才会存在,在运行时组件可以创建连接器来连接其他组件,创建新的进程,创建新的对象,和模块结构不同的是组件+连接器结构在系统停止运行后就不再存在了,你只能通过它留下来的足迹捕捉到它的存在,比如日志文件和数据库里的数据.*
+
+Allocation structures are created by showing how module and C&C elements correspond with each other and the physical elements that exist in real life. Allocation structures are sometimes called mapping structures since they show how different elements map to one another. Does an element run on the client machine or the server? Which teams are building which parts of the system? Allocation structures help us answer questions like these.
+
+*分配结构是用来描述模块和组件间的对应关系以及现实生活中的物理元素的,分配结构有时会被称为映射结构因为它展示了不同的元素之间的对应关系.比如某个元素是运行在客户机还是服务端?哪一个团队负责系统中的某一个部分?分配结构就是帮组我们来回答这些问题的.*
