@@ -152,3 +152,17 @@ Component and connector structures come into existence at runtime. At runtime, c
 Allocation structures are created by showing how module and C&C elements correspond with each other and the physical elements that exist in real life. Allocation structures are sometimes called mapping structures since they show how different elements map to one another. Does an element run on the client machine or the server? Which teams are building which parts of the system? Allocation structures help us answer questions like these.
 
 *分配结构是用来描述模块和组件间的对应关系以及现实生活中的物理元素的,分配结构有时会被称为映射结构因为它展示了不同的元素之间的对应关系.比如某个元素是运行在客户机还是服务端?哪一个团队负责系统中的某一个部分?分配结构就是帮组我们来回答这些问题的.*
+
+### Joe asks: Are Components and Modules Different Things?
+
+In your software development career you may have heard the words module and component used interchangeably and in different contexts. Technically a component is a different concept from a module. A module refers to a design time element whereas a component is a runtime idea.
+
+*在你从事软件开发工作的经历中可能听到过这种说法:模块和组件在不同的场景中都是可互换的,从技术上讲组件和模块是两个不同的概念,模块更多的是一个设计过程中的一个元素而组件是一个运行时的概念.*
+
+Sometimes this precision in language is important. Using a term with specific meaning to describe something general can create confusion. Anytime you want to describe a generic building block of an architecture instead of using component or module, use the word element.
+
+*有时这种语言上的精确表述是很重要的,使用专业的术语来描述一个宽泛的事物会让人困惑,每当你想要描述架构中某个宽泛的组成部分的时候尽量使用元素这个词而不要随意使用组件或者模块这样的词汇.*
+
+All that said, arguing about semantics is not the best way to get your ideas across. While I encourage you to use proper and precise terminology, your ideas will sometimes get better mileage by adapting your language so others understand you.
+
+*不管怎么说,在语义上吹毛求疵并不是帮助你传达想法的最重要的事情,但是我仍然鼓励你尽量使用适合且精准的术语,这样你的想法能够通过准确的表达来让别人更好的理解到.*
