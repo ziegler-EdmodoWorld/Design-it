@@ -166,3 +166,11 @@ Sometimes this precision in language is important. Using a term with specific me
 All that said, arguing about semantics is not the best way to get your ideas across. While I encourage you to use proper and precise terminology, your ideas will sometimes get better mileage by adapting your language so others understand you.
 
 *不管怎么说,在语义上吹毛求疵并不是帮助你传达想法的最重要的事情,但是我仍然鼓励你尽量使用适合且精准的术语,这样你的想法能够通过准确的表达来让别人更好的理解到.*
+
+Different kinds of structures are useful for thinking about different properties you want in your system. For example, you can think about testability and maintainability using a module structure. A C&C structure helps us think about runtime concerns such as availability or performance. You also might know there’s a gap in our understanding if you see mixed structures such as a static element using a dynamic relation.
+
+*在思考系统中需要的不同属性的时候使用不同的结构是很有用的,比如你可以把可测试性和可维护性看作一个模块,组件结构帮助我们思考运行时的关注点比如可用性和性能.你同样可能知道如果你看到一个混合的结构比如一个静态的元素用到了一个动态的关系那就不太容易理解.*
+
+Structures determine the shape of our system. The shape is important since it decides the quality attributes and other properties your users will experience. In the next section you’ll see how to use structures to reason about quality attributes, but first, it’s time get your hands dirty with a quick exercise.
+
+*结构定义了我们系统的形态,这个形态很重要因为它决定了质量属性和其他用户体验相关的特性,在下一节你会看到怎样使用结构体来定位质量属性,但首先你的做一个小测试.*
