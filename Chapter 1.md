@@ -174,3 +174,30 @@ Different kinds of structures are useful for thinking about different properties
 Structures determine the shape of our system. The shape is important since it decides the quality attributes and other properties your users will experience. In the next section you’ll see how to use structures to reason about quality attributes, but first, it’s time get your hands dirty with a quick exercise.
 
 *结构定义了我们系统的形态,这个形态很重要因为它决定了质量属性和其他用户体验相关的特性,在下一节你会看到怎样使用结构体来定位质量属性,但首先你的做一个小测试.*
+
+## Get Your Hands Dirty: Elements, Relations, and Structures
+
+Find a few teammates from a recent project. Working alone, list or sketch module, component and connector, and allocation structures from that project. Share your lists with one another. How do they compare? Are there structures your teammates identified that you didn’t? Discuss the similarities and differences in the structures different teammates identified.
+
+*找一些最近在同一个项目工作的同事,回忆之前那个项目,先独自列出或者画出模块,组件和连接器以及依赖结构.把你们总结的内容和别的同事分享,怎么比较呢?有没有你同事识别出来但是你没有的结构?然后再讨论这些不同的同事提出的结构的差异和相同之处.*
+
+Here are some things to think about:
+
+*有一些值得思考的地方:*
+
+Be specific when naming the elements. Don’t forget about the relations!
+
+*在给元素命名的时候需要精确,不要忘了它们之间的关系.*
+
+Think about the module structures: What methods or classes are used? Do the classes live in different packages or namespaces? What dependencies are included in package managers or build scripts?”
+
+*思考下模块结构:用到了什么方法和类?类是否存在于不同的包和命名空间中?包管理器或者构建脚本依赖了什么东西?*
+
+Think about the C&C structures: Does the software interact with other processes or systems at runtime? Who calls the system and how does it change in response?
+
+*思考下组件+连接器结构:软件有没有和其他进程或者系统有运行时的交互?谁在负责调用,它是怎样修改响应的.*
+
+Think about the allocation structures: Who is responsible for building different parts of the software? How is the software deployed?
+
+*思考下分工结构:谁负责搭建软件不同的部分?软件是如何部署的?*
+
