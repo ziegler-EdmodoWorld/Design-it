@@ -201,3 +201,29 @@ Think about the allocation structures: Who is responsible for building different
 
 *思考下分工结构:谁负责搭建软件不同的部分?软件是如何部署的?*
 
+### Reason about Quality Attributes (and Other System Properties)
+
+Say you’re building a calculator app and you want to add two numbers together. Sounds easy, right?
+
+*假设你要开发一个计算器软件将2个数相加,听起来很简单对吧?*
+
+Wait. Did you want a calculator that adds two numbers and is fast, reliable, scalable, and maintainable? Why didn’t you say so! If we hadn’t asked about these quality attributes, we might have designed the wrong system altogether.
+
+*等等,你希望这个计算器不止做到把两个数做加法而且速度快,而且可靠性,扩展性和可维护性都很强吗?为什么要这样问呢?如果我们不去考虑这些质量属性,我们可能就会设计出一个完全错误的系统.*
+
+
+A quality attribute is any externally visible characteristic by which stakeholders judge a software system’s goodness. Some examples include scalability, availability, maintainability, and testability. You experience quality attributes when you interact with the software.
+
+*质量属性是相关人员可以判断一个软件系统是否优秀的可见特性,比如包括扩展性,可用性,可维护性以及可测试性.你使用某个软件的时候就会体会到这些质量属性的影响.*
+
+When you choose an architectural structure, you are choosing the quality attributes you want to be promoted in the software system. Thinking about software architecture makes sure you design a software system that supports the quality attributes you want within the context of all the other concerns vying for attention.
+
+*当你选择一个组织架构的时候,你实际上就是在选择能满足软件系统需求的质量属性.对软件架构的思考确保你设计出来的软件系统能够满足那些能够引人瞩目的质量属性.*
+
+Quality attributes make software unique. The circumstances of every system are different—different team, different budget, different market conditions, even different technology trends. As a result, no two architectures will ever be the same even if the feature sets are identical.
+
+*质量属性让软件变的独一无二,每个不同的系统都是由不同团队开发的,有不一样的预算,不同的市场前景,甚至不同的技术趋势,所以即使功能是一样的,对不同的系统也不会没有两种一模一样的架构.*
+
+Up for the challenge? In the next section, you’ll learn some strategies for becoming your team’s architect.
+
+*准备好迎接挑战了吗?下一节,你会学到一些能帮助你成为团队中的架构师的策略.*
