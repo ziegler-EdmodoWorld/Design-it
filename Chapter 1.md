@@ -227,3 +227,21 @@ Quality attributes make software unique. The circumstances of every system are d
 Up for the challenge? In the next section, you’ll learn some strategies for becoming your team’s architect.
 
 *准备好迎接挑战了吗?下一节,你会学到一些能帮助你成为团队中的架构师的策略.*
+
+### Become an Architect for Your Team
+
+On some teams, architect is an official team role. On other teams, there is no explicit role and teammates share the architect’s responsibilities. Some teams say they don’t have an architect, but if you look closely, someone is fulfilling the architect’s duties without realizing it.
+
+*有的团队中架构师是一个官方授权的角色,而在有些团队没有一个明确的架构师的角色,所有的成员都会承担架构师的任务,有些团队宣称他们没有架构师但是如果你仔细观察,其实已经有人在承担架构师的角色了,只是他没有意识到而已.*
+
+Architects are leaders, but being a software architect also implies a person who thinks about software design in a certain way. No matter what the title on your business card reads (mine still reads software engineer, my choice), you can be a software architect. Every team has at least one architect. The best teams have several.
+
+*架构师是技术领袖,但是作为一个架构师同样表明你是一个对软件设计有着独到看法的人,不管你的名片上的职务是什么(我的名片上依然是软件工程师,我更喜欢这样)你都可以做架构师的工作,每个团队都需要至少一名架构师,最好同时有多个.*
+
+If your team doesn’t have an architect, congratulations, you’ve got the job! You don’t need permission to inject architectural thinking into your team’s design discussions. Start asking questions about quality attributes. Point out when the team makes trade-offs. Volunteer to write up design decisions and begin accepting more architecture design responsibilities.
+
+*如果你的团队没有架构师,恭喜你,说明你已经在承担这个职责了,你不需要授权就主动的将架构思维运用到了平时团队的技术讨论中,开始关注质量属性,指出团队需要做的技术决策,主动编写设计文档并且开始承担更多的架构设计工作.*
+
+If your team already has an architect, then ask that person how you can help. When possible, work closely with your architect and take advantage of every learning opportunity you can. Developing a software system is a big job. The more people who pay attention to the details, the greater your chance of success. Every team should be so lucky as to have many knowledgeable software architects!
+
+*如果你的团队已经有一名架构师了,那可以问问他你怎样能让你帮到他,如果可能喝你的架构师紧密的合作,利用每次可以学习的机会.开发一个软件系统是一个庞大的工作,越多人参与到细节的考虑,那成功的几率就越大,如果一个团队同时有多名知识丰富的架构师那就太幸运了.*
