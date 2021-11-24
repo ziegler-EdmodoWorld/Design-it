@@ -245,3 +245,13 @@ If your team doesn’t have an architect, congratulations, you’ve got the job!
 If your team already has an architect, then ask that person how you can help. When possible, work closely with your architect and take advantage of every learning opportunity you can. Developing a software system is a big job. The more people who pay attention to the details, the greater your chance of success. Every team should be so lucky as to have many knowledgeable software architects!
 
 *如果你的团队已经有一名架构师了,那可以问问他你怎样能让你帮到他,如果可能喝你的架构师紧密的合作,利用每次可以学习的机会.开发一个软件系统是一个庞大的工作,越多人参与到细节的考虑,那成功的几率就越大,如果一个团队同时有多名知识丰富的架构师那就太幸运了.*
+
+### Make the Move from Programmer to Software Architect
+
+An average software architect has developed three to five software systems with increased technical responsibility on each software system. Depending on the software you build, as your architecture responsibilities grow you may find you have less time for programming. This is normal, though software architects should never stop programming altogether.
+
+*一个普通的软件架构师一般能在3到5个软件系统上逐渐承担更多的职责,根据不同的软件的情况,你会发现当你的架构师职责变多的时候就更少有时间写程序了,这很正常,虽然软件架构师不应该远离代码编写.*
+
+To measure your growth from programmer to software architect, create a project portfolio. For every software system you build, no matter your role, briefly describe the software system and what you learned during your time developing it. This kind of reflective practice is essential for all technical leaders but especially software architects.
+
+*为了测量你从程序员到架构师的距离,可以创建一个项目文件夹用来大概描述这个软件系统和你在开发过程中学到的东西,这种反应式的练习对所有技术领袖都是有必要的特别是对软件架构师.*
