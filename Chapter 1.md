@@ -255,3 +255,26 @@ An average software architect has developed three to five software systems with 
 To measure your growth from programmer to software architect, create a project portfolio. For every software system you build, no matter your role, briefly describe the software system and what you learned during your time developing it. This kind of reflective practice is essential for all technical leaders but especially software architects.
 
 *为了测量你从程序员到架构师的距离,可以创建一个项目文件夹用来大概描述这个软件系统和你在开发过程中学到的东西,这种反应式的练习对所有技术领袖都是有必要的特别是对软件架构师.*
+
+Here are some questions you should answer about each project in your portfolio:
+
+*这里有一些针对每个项目你都应该尝试回答的问题:*
+
+Who were the stakeholders and what were the primary business goals?
+What did the high-level solution look like?
+What technologies were involved?
+What were the biggest risks and how did you overcome them?
+If you could do it all over again, how would you do it differently?
+Whether your goal is promotion or simply professional growth, be patient. You might have the chance to design a software system of meaningful complexity only every three to five years. If you are lucky, you will see between 8 and 15 software systems throughout your entire career. Be prepared to take advantage of architecting opportunities as they arise. Work with your teammates to give everyone a chance to grow their skills. I promise there is more than enough interesting architecture work for everyone!
+
+*
+相关的人员有哪些以及主要的商业目标是什么?
+高层的解决方案是怎样的?
+使用了哪些技术?
+最大的风险以及怎样去克服的?
+不管你的目标是晋升还是简单的职业成长,都需要耐心点.你可能每三到五年才有机会去设计一个非常复杂的大型软件系统,如果你足够幸运,你会在自己整个职业生涯参与8到15个软件系统的开发,抓住有机会做架构工作的优势,和你的队友一起合作让大家都有机会去提升自己的技能,我保证肯定会有足够多的有趣的架构工作可以让大家都来参与.
+*
+
+Always remember, software architect is a way of thinking, not just a role on the team. When you’re wearing your programmer hat, you’ll make dozens of design decisions daily. Some of these decisions have architectural significance. Anyone who makes a decision that influences the structures of the software system becomes the architect pro tempore. It’s up to you to make good decisions and uphold architectural integrity no matter what the title on your business card reads.
+
+*一定要牢记,软件架构师是一种思维方式,而只是团队中的一个角色,当你做为程序员时你每天可能会做成千上万的技术决定,其中部分决定包含架构的意义,任何做出了影响系统结构的技术决定的人都是零时的架构师.你完全可以自己作出好的技术决策然后承担架构工作而不需要名片上的一个职务.*
