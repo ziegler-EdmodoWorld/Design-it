@@ -278,3 +278,21 @@ Whether your goal is promotion or simply professional growth, be patient. You mi
 Always remember, software architect is a way of thinking, not just a role on the team. When you’re wearing your programmer hat, you’ll make dozens of design decisions daily. Some of these decisions have architectural significance. Anyone who makes a decision that influences the structures of the software system becomes the architect pro tempore. It’s up to you to make good decisions and uphold architectural integrity no matter what the title on your business card reads.
 
 *一定要牢记,软件架构师是一种思维方式,而只是团队中的一个角色,当你做为程序员时你每天可能会做成千上万的技术决定,其中部分决定包含架构的意义,任何做出了影响系统结构的技术决定的人都是零时的架构师.你完全可以自己作出好的技术决策然后承担架构工作而不需要名片上的一个职务.*
+
+### Build Amazing Software
+
+There are lots of things that have to go right when building a software system. Architecture connects them all together and provides a foundation for success. Here are six ways software architecture helps you in your quest to build spectacular software that your stakeholders will love:
+
+*在搭建一个软件系统的时候需要做好很多事情,架构师会把这些事情都联系起来为项目的成功打好基础.下面是六种架构师能帮助你创造出让用户喜爱的软件系统的方式:*
+
+1. Software architecture turns a big problem into smaller, more manageable problems.
+Modern software systems are large and complex, and they have many moving pieces. The architecture precisely explains how to partition the system into smaller, bite-sized chunks while also ensuring the system as a whole is greater than the sum of its parts.
+
+*1.架构师把一个大的问题切分成更小,更容易管理的问题.
+现代的软件系统变的规模更大更复杂,而且分为很多不断变化的部分,架构师能精确的解释怎样把系统拆分为更小的部分,同时保证这些部分被整合起来形成一个整体的时候能发挥更大的作用.*
+
+2. Software architecture shows people how to work together.
+Software development is as much about human communication as it is technology. Software architecture describes how the whole system comes together, including the people who build it. When you know the architecture, then you can see how people can collaborate to develop software. The larger the software system, the more important this becomes.
+
+*2.架构师展示了合作的能力
+软件开发中沟通能力和技术能力一样重要,架构师描述了整体系统是如何组织的,包括开发人员,当你了解整个架构时,你就知道人们是如何合作去开发软件的.软件系统越大,沟通也就越重要.*
