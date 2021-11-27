@@ -309,3 +309,20 @@ Features and functionality are important, but they are not the only thing that d
 
 *4.软件架构超越了特性和功能.
 特性和功能很重要,但是他们不是唯一决定软件是否出色的因素,当设计软件架构时,你不止会考虑功能同时也要考虑成本,限制因素,排期,风险,团队交付的能力,最重要的是质量属性,比如扩展性,可用性,性能和可维护性.*
+
+5. Software architecture helps you avoid costly mistakes.
+In Who Needs an Architect?, Martin Fowler defines software architecture as “…the important stuff. Whatever that is.” The important stuff is nearly always what we think will be difficult to change without significantly increasing complexity. Grady Booch echoes Fowler’s sentiment by defining architecture as the “…significant design decisions (where significant is measured by the cost of change).”[2] Software architects are not omniscient, but designing an architecture will help you discover the challenging (and interesting) parts of the problem that might cause big trouble later.
+
+*5.架构师能帮助你避免高代价的错误.
+在<谁需要架构师?>中,Martin Fowler把架构称为"不管从哪方面讲都是重要的事情".而我们认为的重要的方面都是那些必须付出巨大的复杂性提升的代价才能改变的事情.Grady Booch回应了Fowler的说法讲架构定义为"重大的设计决策(重大的程度取决于未来改变这个设计的成本)".架构师不是无所不知的,但是架构设计会帮助你从问题中发现那些有挑战(或者有趣的)的部分,这部分问题可能在未来引发巨大的麻烦.*
+
+6. Software architecture enables agility.
+Your software should respond to change like water, by bending around obstacles with ease. If software is like water, able to take any shape, then software architecture is the container that holds it. That container can be rigid like a box or flexible like a plastic bag. It can be thick and heavy or lightweight. Without an architecture, software, like water, follows the path of least resistance and sprawls uncontrollably. A software system’s architecture provides the structure within which change is possible.
+
+We’ll expand on these ideas throughout the remainder of the book.
+
+*6.软件架构驱动着敏捷
+你的软件系统就应该像水一样灵活,能够轻松的在障碍物间穿梭,如果软件像水一样能变成任何形状,那么架构就是包裹它的容器,这个容器可以像盒子一样坚固也可以像口袋一样轻巧,它可以厚重也可以轻便,没有架构的话,软件会像水流一样沿着最省力的路径不受控制的流淌开,软件系统架构提供了未来去改变系统的可能性.
+
+我们会在以后的章节展开讲解这些概念.*
+
