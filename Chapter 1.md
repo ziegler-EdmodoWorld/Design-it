@@ -296,3 +296,16 @@ Software development is as much about human communication as it is technology. S
 
 *2.架构师展示了合作的能力
 软件开发中沟通能力和技术能力一样重要,架构师描述了整体系统是如何组织的,包括开发人员,当你了解整个架构时,你就知道人们是如何合作去开发软件的.软件系统越大,沟通也就越重要.*
+
+3. Software architecture provides a vocabulary for talking about complex ideas.
+If I don’t understand what you’re talking about, then we won’t be able to collaborate. Instead of spending all our time inventing vocabulary and concepts, we can use the essential concepts and core vocabulary of architecture as the starting basis for collaboration. Now we can spend our time solving our users’ real problems.
+
+*3.软件架构师为讨论复杂的想法提供了词汇表
+如果我不知道你在说些什么,那么我们没法合作,我们可以先使用基础的概念和核心的一些架构相关的词汇来作为合作的基础而不是一直忙于发明新的术语,这样我们才有时间去解决真正用户的问题.*
+
+
+4. Software architecture looks beyond features and functionality.
+Features and functionality are important, but they are not the only thing that determines whether or not software is awesome. When designing architecture, you’ll consider not only the features but also costs, constraints, schedules, risk, the ability of the team to deliver, and most importantly quality attributes—things like scalability, availability, performance, and maintainability.
+
+*4.软件架构超越了特性和功能.
+特性和功能很重要,但是他们不是唯一决定软件是否出色的因素,当设计软件架构时,你不止会考虑功能同时也要考虑成本,限制因素,排期,风险,团队交付的能力,最重要的是质量属性,比如扩展性,可用性,性能和可维护性.*
