@@ -326,3 +326,18 @@ We’ll expand on these ideas throughout the remainder of the book.
 
 我们会在以后的章节展开讲解这些概念.*
 
+### Case Study: Project Lionheart
+
+As we cover new ideas in each chapter, we’ll apply them to a case study, Project Lionheart. The case study is based on a real system, but the names and situations have been changed for teaching and legal purposes.
+
+*我们会对每章的新想法通过案例学习来进行实践,就是所谓的"狮子之心".案例学习会基于一个真实的系统,但是为了教学和保密的目的会把命名和实际场景做一些更改.*
+
+Design an Architecture to Solve This Problem
+The City of Springfield is facing budget shortfalls and needs to cut costs. Mayor Jean Claude van Damme (no relation to the action hero) has hired our team to streamline the city’s Office of Management and Budget (OMB).
+
+*设计一个架构来解决下面的问题:
+*Springfield市面临着预算不足需要降低成本的问题,Mayor Jean Claude van Damme(和某个动作明星没关系)雇佣我们团队来精简城市的行政管理和预算.*
+
+When a city employee needs to purchase something for more than a few thousand dollars, the OMB issues a Request for Proposals (RFP) in the local newspaper. Businesses bid on the RFPs and the OMB awards a contract based on the competitiveness of the bid and other factors. The OMB monitors more than 500 active contracts and RFPs for everything from toilet paper to medical supplies to basketballs. The OMB manages all this data in spreadsheets.
+
+*当政府雇员要做一笔超过数千美元的采购时,OMB会在本地报纸发布一个提案(RFP),商家会基于RFP和OMB综合考虑这次竞价的吸引力和其他因素来制定一个合同.OMB会关注多于500个有效的合同和RFP来为各种东西,从厕纸到医药供应再到篮球.OMB通过电子表格来管理这些数据.*
