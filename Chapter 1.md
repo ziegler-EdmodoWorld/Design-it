@@ -341,3 +341,23 @@ The City of Springfield is facing budget shortfalls and needs to cut costs. Mayo
 When a city employee needs to purchase something for more than a few thousand dollars, the OMB issues a Request for Proposals (RFP) in the local newspaper. Businesses bid on the RFPs and the OMB awards a contract based on the competitiveness of the bid and other factors. The OMB monitors more than 500 active contracts and RFPs for everything from toilet paper to medical supplies to basketballs. The OMB manages all this data in spreadsheets.
 
 *当政府雇员要做一笔超过数千美元的采购时,OMB会在本地报纸发布一个提案(RFP),商家会基于RFP和OMB综合考虑这次竞价的吸引力和其他因素来制定一个合同.OMB会关注多于500个有效的合同和RFP来为各种东西,从厕纸到医药供应再到篮球.OMB通过电子表格来管理这些数据.*
+
+Mayor van Damme hopes modernizing the OMB will improve a few strategic areas.
+
+*Mayor van Damme希望通过更新OMB系统改进一些领域的策略:*
+
++ Over half of all RFPs have a single bid. The city is potentially overpaying for lower-quality services.
+
+*超过一半的提案只有一家竞价,这让城市可能面临成本更高但是获得的服务不够好的情况.*
+
++ Finalizing a contract takes months. Many businesses get lost in the multistep process.
+
+*完成一笔合同需要几个月,如此漫长的流程中失去了很多商业机会.*
+
++ Publishing a new RFP takes up to 6 weeks. This process must be faster.
+
+*发布一个提案需要至少需要6个星期,必须加快进度.*
+
+Throughout Part II, we’ll flesh out this case study and work together to design a plausible architecture to solve some of these problems.
+
+*通过第二部分,我们会充实这个学习案例,一起来设计一个虚拟的架构来解决其中的一些问题.*
