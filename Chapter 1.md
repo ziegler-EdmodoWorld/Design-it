@@ -361,3 +361,13 @@ Mayor van Damme hopes modernizing the OMB will improve a few strategic areas.
 Throughout Part II, we’ll flesh out this case study and work together to design a plausible architecture to solve some of these problems.
 
 *通过第二部分,我们会充实这个学习案例,一起来设计一个虚拟的架构来解决其中的一些问题.*
+
+### Next Up
+
+Software architects are responsible for quite a lot. Designing interesting, complex software systems and working with different people feels good and is well worth the effort. Becoming a software architect is not an overnight journey. If you focus on the architect’s core responsibilities and do your best to apply the architectural fundamentals, mainly selecting structures to promote desired quality attributes, then you’ll do great.
+
+*架构师会负责很多事情,和不同的人一起设计一个有趣而复杂的系统是一项让人感觉很好且值得付出的事情.成为一名架构师不是一蹴而就的,如果你聚焦在架构师的核心职责上同时尽力去应用架构设计中那些基本的,广泛使用的结构,来满足需要的质量属性,那你就做的真的很好.*
+
+In this chapter, you learned what architecture is and what architects do. In the next chapter, you’ll learn how to use design thinking to figure out what should go into the architecture.
+
+*在本章中,你学到了什么是架构和架构师的职责.在下一章中,你会学到怎样利用设计思维来做好架构.*
