@@ -11,3 +11,41 @@ To help you perform this challenging task, you’ll learn a creative and analyti
 In this chapter, you’ll learn how to apply design thinking to software architecture. You’ll start by learning the core principles of design thinking. Next, you’ll learn how to use different design mindsets to keep your architecture moving forward in (mostly) the right direction. Finally, you’ll see an approach for picking design mindsets.
 
 *在本章中,你会学到怎样应用设计思维来思考软件架构.你会从学习几个核心的设计原则开始,然后学习怎样使用不同的设计思路来让你的架构尽量保持在正确的方向上演进.最后你会看到能帮助你选择设计思路的方法.*
+
+### The Four Principles of Design Thinking
+
+Design thinking is less a process and more a way of thinking about problems and solutions from the perspective of the people affected by them. While design thinking is not a process, there are still rules to guide our design activities. In Design Thinking: Understand - Improve - Apply Christoph Meinel and Larry Leifer propose four universal principles of design. These principles apply to software architecture as well as to detailed program design, user interaction design, or any other design-focused discipline.
+
+*设计思维更多的是从受众的角度出发来思考问题和解决方案而不仅仅是一种流程.虽然设计思维不是一种流程,但是依然有指引我们的设计工作的规则,那就是理解 - 优化 - 实施, Christoph Meinel和Larry Leifer提出了四个统一的设计原则,这些原则同时适用于软件架构和具体的编程设计和用户交互设计,或者其他任何以设计为主的过程.*
+
+Here are the four principles of design:
+
+*下面就是这四个设计原则:*
+
+1. Human rule.
+All design is social in nature.
+
+*1. 以人为本
+所有的设计都是自然界中的社交行为*
+
+2. Ambiguity rule.
+Preserve ambiguity.
+
+*2.歧义规则
+避免歧义*
+
+3. Redesign rule.
+All design is redesign.
+
+*3.再设计规则
+所有的设计都是再设计*
+
+4. Tangibility rule.
+Make ideas tangible to facilitate communication.
+
+*4.有形性规则
+将想法转化为可见的实体更有助于交流*
+
+We’ll use the acronym HART to help remember these principles. Let’s examine the HART principles as they relate to software architecture design so we can see how to apply design thinking in the context of software architecture.
+
+*我们会使用HART的缩写来帮助记忆这些原则,我们先在软件架构领域来检验HART原则,进一步来看怎样使用设计思维来进行软件架构设计.*
