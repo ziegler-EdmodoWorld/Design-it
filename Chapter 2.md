@@ -49,3 +49,13 @@ Make ideas tangible to facilitate communication.
 We’ll use the acronym HART to help remember these principles. Let’s examine the HART principles as they relate to software architecture design so we can see how to apply design thinking in the context of software architecture.
 
 *我们会使用HART的缩写来帮助记忆这些原则,我们先在软件架构领域来检验HART原则,进一步来看怎样使用设计思维来进行软件架构设计.*
+
+### Design for Humans
+
+Design is an inherently human-focused endeavor. We design software for people. We design software with people. Every design decision in the architecture helps individuals in some way. Every design decision must be understood by and shared with other humans.
+
+*设计是一种天生的为人服务的工作.我们为别人设计软件,同时我们和别人一起完成软件设计.软件架构中的每一个设计决策都帮助在某个方面帮助着每个人,每个设计决策都应该是易懂且易于被分享给别人理解的.*
+
+Architects must empathize with all stakeholders. We care about end users as much as the people the end users help, the programmers who write the code, the testers who verify it, and even the managers who keep tabs on the development schedule. As we design a software system, we’ll collaborate with the other humans on our team and show them respect by listening, assuming positive intent, and using human-centered design methods.
+
+*架构师必须考虑到所有参与者的感受,我们不仅关心软件用户同样也关心我们的用户的用户,程序员写代码,测试人员验证软件功能,甚至项目经理管理开放周期都是在做这件事.在设计软件系统的过程中我们和其他团队成员通过倾听对方,积极看待对方的想法以及本真以人为本的设计方法来充分合作.*
