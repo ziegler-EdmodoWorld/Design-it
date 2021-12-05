@@ -59,3 +59,11 @@ Design is an inherently human-focused endeavor. We design software for people. W
 Architects must empathize with all stakeholders. We care about end users as much as the people the end users help, the programmers who write the code, the testers who verify it, and even the managers who keep tabs on the development schedule. As we design a software system, we’ll collaborate with the other humans on our team and show them respect by listening, assuming positive intent, and using human-centered design methods.
 
 *架构师必须考虑到所有参与者的感受,我们不仅关心软件用户同样也关心我们的用户的用户,程序员写代码,测试人员验证软件功能,甚至项目经理管理开放周期都是在做这件事.在设计软件系统的过程中我们和其他团队成员通过倾听对方,积极看待对方的想法以及本真以人为本的设计方法来充分合作.*
+
+The Human rule also reminds us that architects are not separated from our teams. We work directly with them to design the architecture together. Building software is an intensely social activity. The idea of an ivory tower architect who designs the architecture isolated from the team is a myth. Software architects are an integral part of every team. Separating the architect from the team severs the human connection the architect shares with everyone touched by the architecture.
+
+*以人为本的原则同样提醒我们架构师不是和团队分割开的,我们的直接和团队一起进行架构设计,创建软件是一件社交密集型的活动,那种呆在象牙塔里面和团队分开的架构师都是神奇的.软件架构师是每个团队中不可或缺的,将架构师和团队分离的行为会把架构师和所有试用软件架构的人之间的联系切断.*
+
+Empathizing with the humans who directly and indirectly interact with the architecture makes us a better designer, communicator, and leader.
+
+*感受那些直接或者间接参与架构设计的人们的行为让我们成为更好的设计者,交流者和领导者.*
