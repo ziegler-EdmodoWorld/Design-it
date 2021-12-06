@@ -67,3 +67,21 @@ The Human rule also reminds us that architects are not separated from our teams.
 Empathizing with the humans who directly and indirectly interact with the architecture makes us a better designer, communicator, and leader.
 
 *感受那些直接或者间接参与架构设计的人们的行为让我们成为更好的设计者,交流者和领导者.*
+
+### Preserve Ambiguity
+
+Ambiguity in engineering is dangerous. Once we’ve made a design decision, we must share it with precision and clarity. Allowing requirements, design decisions, and commitments to remain ambiguous is the best way to destroy a project. Before we solidify a design decision, we can use ambiguity to keep options open.
+
+*工程学中的歧义是很危险的事情,一旦我们确定了一个设计决定,我们就必须能清楚且精确的将它分享出来,容忍需求,设计或者技术承诺中存在模糊的歧义是摧毁项目最好的方式.当然在确定技术设计之前我们可以使用一些模糊的概念来更开放的引入更多的可能性.*
+
+Since the goal of software architecture is to arrange structures that promote desired quality attributes, we’ll focus our attention there. In Less is more with minimalist architecture [MB02], Ruth Malan and Dana Bredemeyer suggest architects design a minimalist architecture. A minimalist architecture only shows how high-priority quality attributes are achieved and reduces risks for promoting those quality attributes. All other design decisions are left open for downstream designers to determine.
+
+*因为软件架构个的目标是确保需要的质量属性能达到满足,我们当然会专注于此,在<<少即是多,更简洁的架构>>这本书中Ruth Malan和Dana Bredemeyer建议架构师应用遵循极简原则,一个极简的架构只反应如何满足高优先级的质量属性以及降低风险,其他设计决定让下游的设计者来完成.*
+
+Architecture minimalism implies that we want to defer binding design decisions for as long as responsible. Design decisions that do not directly influence a quality attribute or reduce risks threatening our ability to deliver software are more about detailed design than architecture. Such decisions can safely be left open for downstream designers to settle outside the architecture. You’ll learn more about preserving ambiguity in ​Design for Change​.
+
+*极简架构的理念是我们希望只要能有人负责就尽量延迟做技术决定的时间点,设计决定如果没有直接反应质量属性或者降低风险的话就会让我们的工作更多的是在做细节设计而不是架构.某些技术决定可以留给下游的设计者来在核心架构之外完成,你会在"基于变化的设计"这章学到更多关于保持模糊的知识.*
+
+Preserving ambiguity allows us to deliver software even as the world around us changes.
+
+*保持模糊可以让我们在交付软件时更加适应周围世界的变化.*
