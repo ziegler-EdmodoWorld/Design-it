@@ -85,3 +85,18 @@ Architecture minimalism implies that we want to defer binding design decisions f
 Preserving ambiguity allows us to deliver software even as the world around us changes.
 
 *保持模糊可以让我们在交付软件时更加适应周围世界的变化.*
+
+### Design Is Redesign
+
+In A Pattern Language: Towns, Buildings, Construction [AISJ77], Christopher Alexander and others cataloged over 253 civil engineering problems with known good solutions. Topics ranged from construction materials to community organization techniques to building architectures. If you’ve ever enjoyed a perfect spring morning while sipping coffee at a sidewalk cafe, then you can thank Christopher Alexander for documenting the sidewalk cafe pattern as a community building solution.
+
+*在<<模式语言:城镇,建筑,建设>>这本书中,Christopher Alexander和其他人总结了超过253种国内的工程问题以及对应的好的解决办法.其中涉及的话题从建筑材料到建筑架构到社区组织再到建筑架构.如果你曾经在一个美好的春天的清晨在人行道上喝着咖啡,那你就应该感谢Christopher Alexander制定了这种人行道咖啡模式作为一种社区的组织方式.*
+
+The redesign rule encourages us to look to think about what we already know by exploring patterns and past designs. As time goes on and as we build more software, our institutional knowledge about how to design great software improves. Other teams have probably seen a problem similar to the one you face currently. Hopefully, someone documented a pattern you can use as a starting point for your architecture. Maybe someone built a framework designed to solve your exact problem?
+
+*再次设计规则鼓励我们去思考我们已知的模式和过时的设计,伴随着时间的流逝,我们参与了更多软件的开发,我们对于如何开发伟大的软件的知识也在随之改进.其他团队也许也面临着和你相似的问题,但愿有人制定了一种模式能作为你的架构工作的开始的指导,也许有人创造了一个框架可以刚好解决你的问题呢?*
+
+When designing software architectures, we’ll spend more time refining existing designs than we’ll be creating new ones. One of the least effective ways to design software architecture is to ignore the software systems that came before us.
+
+*当做软件架构设计的时候,我们会花更多的时间来总结现存的设计以便创造新的设计,其中最低效的设计架构的方式就是不去参考已经存在的软件系统.*
+
