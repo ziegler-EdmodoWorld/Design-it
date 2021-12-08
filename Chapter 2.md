@@ -100,3 +100,20 @@ When designing software architectures, we’ll spend more time refining existing
 
 *当做软件架构设计的时候,我们会花更多的时间来总结现存的设计以便创造新的设计,其中最低效的设计架构的方式就是不去参考已经存在的软件系统.*
 
+### Make the Architecture Tangible
+
+While the structures in the architecture can exist in code, this does not make the architecture any more tangible. Code is difficult to read and does not make discussions about quality attributes, coarse-grained components, design rationale, or the consequences of our decisions any easier. If we want to share an architecture with others, then we need to make it real in a way code by itself will not allow.
+
+*架构中的各种结构体可以存在于代码中,这并没有增强架构的可见性,代码不太容易阅读而且没有引入关于质量属性,粗颗粒度的组件,设计思想或者之前我们决策的实施结果的讨论.如果我们想要分享架构给其他人,那么我们需要找到一种代码无法替代的表现方式.*
+
+There are many ways to make architecture tangible. Draw it. Make it come alive in the code you write. Build prototypes that let people experience structures and quality attributes. Create simple models that show how some part of the architecture works. Create relatable metaphors. Act out parts of the control flow of the system.
+
+*有很多方法可以实现架构的可见性,比如画图,让架构图和你编写的代码报纸一致.画原型图可以让人们感受到架构的结构和质量属性.用简单的模型展示架构中某些部分是怎样工作的.用相关的隐喻来表示系统的控制流程.*
+
+The tangibility rule is closely related to the Human rule. Humans must be able to relate to ideas to internalize them. The only way to share an architecture is to make it tangible.
+
+*可见性规则和以人为本的规则很相似,人类必须要先能把想法联系起来才能去内化他们.唯一能分享架构的方式就是让他们变得可见.*
+
+The HART principles form the philosophical basis of our architecture design approach. These principles guide our decision making and permeate our thinking. These four principles describe why we do things the way we do them. Now that you understand the underlying principles behind design thinking, let’s explore how to apply these principles by learning how to select architecture-focused design practices.
+
+*HART原则产生于我们的架构设计方法论的哲学基础.这些原则知道我们作出决策同时贯穿到我们的想法里.这四个原则描述了我们采取对应行动的原因.现在你应该了解了设计思维背后的原则了,让我们继续探索怎样通过学习选择以架构为中心的设计实践来应用这些原则.*
