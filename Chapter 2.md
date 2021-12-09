@@ -117,3 +117,17 @@ The tangibility rule is closely related to the Human rule. Humans must be able t
 The HART principles form the philosophical basis of our architecture design approach. These principles guide our decision making and permeate our thinking. These four principles describe why we do things the way we do them. Now that you understand the underlying principles behind design thinking, let’s explore how to apply these principles by learning how to select architecture-focused design practices.
 
 *HART原则产生于我们的架构设计方法论的哲学基础.这些原则知道我们作出决策同时贯穿到我们的想法里.这四个原则描述了我们采取对应行动的原因.现在你应该了解了设计思维背后的原则了,让我们继续探索怎样通过学习选择以架构为中心的设计实践来应用这些原则.*
+
+### Adopt a Design Mindset
+
+Designing a software system requires us to think about the architecture from the perspective of different design mindsets. A design mindset is a way of thinking about the world so that we focus our attention on the right details at the right time.
+
+*设计一个软件系统需要我们从不同的设计思维出发去思考整个架构.设计思维就是一种能让你准确而及时的对外部世界进行思考的方式.*
+
+There are four design mindsets: understand, explore, make, and evaluate. Each design mindset comes with a set of practices. To design the architecture, we’ll choose a mindset, pick a practice in that mindset, apply the practice to learn something new about the architecture, and repeat.
+
+*有四种设计思维:理解,探索,行动和评估.每种设计思维都源于一些实践, 为了设计一种架构,我们会选择一种思维方式,选取一种实践,然后再将实践应用到现实中来学到更多关于架构的知识,之后不断重复这个过程.*
+
+The chapters in Part II will show you how to put each mindset into practice. Look for the icon, shown in the image, at the start of each chapter to tell you what the focus will be. For now, let’s learn what it means to embrace each of the four design mindsets.
+
+*第二部分的章节会想你展示怎样将每种思维模式应用到实践中,每章开头的图标和图片会告诉你这章要讲的重点,但是现在我们先学习怎样去拥抱这四种思维模式.*
