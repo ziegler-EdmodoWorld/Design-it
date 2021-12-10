@@ -131,3 +131,13 @@ There are four design mindsets: understand, explore, make, and evaluate. Each de
 The chapters in Part II will show you how to put each mindset into practice. Look for the icon, shown in the image, at the start of each chapter to tell you what the focus will be. For now, let’s learn what it means to embrace each of the four design mindsets.
 
 *第二部分的章节会想你展示怎样将每种思维模式应用到实践中,每章开头的图标和图片会告诉你这章要讲的重点,但是现在我们先学习怎样去拥抱这四种思维模式.*
+
+### Understand the Problem
+
+In the understand mindset we actively seek information from stakeholders and work to describe the problem. The understand mindset is as much about requirements as it is empathy. To understand the problem, we must learn about the people who will be touched by our system and what they need.
+
+*在理解思维中我们积极的从相关人员那儿获取信息并得到清楚的问题描述.这种思维既是需求的来源也是对用户的一种同理心.为了理解问题,我们必须学习那些用户对系统的使用方式和他们的需求.*
+
+To understand the problem, we’ll need to investigate business goals and quality attributes that are important to our stakeholders. We’ll also have to learn how our team operates and get a deeper sense of the priorities and trade-offs among design decisions.
+
+*为了了解问题,我们需要调查对相关人员很重要的商业目标和质量属性,同样也要了解团队是如果工作,对设计的优先级和取舍有一个更深入的理解.*
