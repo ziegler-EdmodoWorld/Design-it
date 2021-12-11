@@ -141,3 +141,13 @@ In the understand mindset we actively seek information from stakeholders and wor
 To understand the problem, we’ll need to investigate business goals and quality attributes that are important to our stakeholders. We’ll also have to learn how our team operates and get a deeper sense of the priorities and trade-offs among design decisions.
 
 *为了了解问题,我们需要调查对相关人员很重要的商业目标和质量属性,同样也要了解团队是如果工作,对设计的优先级和取舍有一个更深入的理解.*
+
+### Explore Ideas
+
+In the popular ethos, design thinking is all about brainstorming and sticky notes. Brainstorming is powerful, but it is only one practice in the explore mindset. When we explore, we create multiple design concepts and identify engineering approaches for solving some aspect of a problem.
+
+*在传统的观念里,设计思想就是头脑风暴和百事贴.头脑风暴是有强大的,但是它只是一种拓宽思维的实践方式,当我们去做思维发散的时候我们是在创建多种设计概念来在工程上通过各种方法来解决特定的问题.*
+
+Exploring software architecture means we try combinations of structures until we find a combination that best promotes desired quality attributes. To find the best mix of structures, we’ll need to survey a broad range of patterns, technologies, and development practices. When we’re planning the architecture, we’ll spend a lot of time in the exploration mindset, but this mindset is also useful when working with stakeholders.
+
+*扩展软件架构意味着我们要试着不断尝试各种组合的直到我们找到能最大化的满足我们的质量属性的方案.为了找到最佳的组合,我们需要对大量的模式,技术和开放实践进行调研,当我们计划作出架构设计时,我们会很多时间在扩展思维上,但是这些思维方式在和相关人员一起工作的时候同样是有用的.*
