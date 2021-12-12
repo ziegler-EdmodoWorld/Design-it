@@ -151,3 +151,16 @@ In the popular ethos, design thinking is all about brainstorming and sticky note
 Exploring software architecture means we try combinations of structures until we find a combination that best promotes desired quality attributes. To find the best mix of structures, we’ll need to survey a broad range of patterns, technologies, and development practices. When we’re planning the architecture, we’ll spend a lot of time in the exploration mindset, but this mindset is also useful when working with stakeholders.
 
 *扩展软件架构意味着我们要试着不断尝试各种组合的直到我们找到能最大化的满足我们的质量属性的方案.为了找到最佳的组合,我们需要对大量的模式,技术和开放实践进行调研,当我们计划作出架构设计时,我们会很多时间在扩展思维上,但是这些思维方式在和相关人员一起工作的时候同样是有用的.*
+### Make It Real
+
+As you learned in "Make the Architecture Tangible", ideas are great but if you can’t transfer them from your brain into someone else’s brain, then your ideas are useless. Making ideas real gives us a way to share them but also provides an opportunity for testing an idea. In the make mindset we turn our design concepts into real-world artifacts.
+
+*在“让架构变得可见”这节中你已经了知道有想法是好的,但是如果不把自己大脑中的想法灌输给其他人,那这些想法就毫无用处.将想法落地给了我们一种能去分享的机会同样也获得了试错的机会.在"实践思维"中我们就是把设计概念落实到真实世界的交付物中.*
+
+The most common ways we make architecture real is by creating models. Making goes way beyond box and line diagrams. You can make the architecture real by building prototypes, writing documents, crunching numbers, and a variety of other approaches.
+
+*最常见的把架构落地的方式就是创建模型,不止是框图和线条,你同样可以通过建立原型,输出文档,处理数字以及其他很多方式来做到.
+
+The make mindset is useful for communicating our plans. We’ll also make the architecture real as we build the system—for example, by organizing our code so that it’s possible to see module structures in the architecture. Making is also an excellent way to push your team out of analysis paralysis.
+
+*"实践思维"在交流大家的计划的时候很有用,我们同样也可以就像真正的来构建系统一样来尝试让架构落地,比如查看代码来梳理架构里面的模块结构,实践和落地是一种十分有用的方法能让团队不仅仅局限于分析和论证.*
