@@ -164,3 +164,13 @@ The most common ways we make architecture real is by creating models. Making goe
 The make mindset is useful for communicating our plans. We’ll also make the architecture real as we build the system—for example, by organizing our code so that it’s possible to see module structures in the architecture. Making is also an excellent way to push your team out of analysis paralysis.
 
 *"实践思维"在交流大家的计划的时候很有用,我们同样也可以就像真正的来构建系统一样来尝试让架构落地,比如查看代码来梳理架构里面的模块结构,实践和落地是一种十分有用的方法能让团队不仅仅局限于分析和论证.*
+
+### Evaluate Fit
+
+How do you know if a design decision will solve the problem? When we embrace the evaluate mindset, we determine the fitness of our design decisions relative to our current understanding.
+
+*怎样评估设计决策的效果呢?当我们抱着不断评估的态度时,我们就在基于我们当前的理解在探查我们的设计的适用性.*
+
+Evaluation is not an all or none proposition. We can evaluate all or part of the architecture, even only a single model, concept, or idea. The most common approach is to walk through a piece of the architecture with different scenarios, but we can also test design decisions directly by running experiments or examining the risks surrounding a decision.
+
+*评估那种要么不做要么全做的事情,我们可以对架构的部分进行评估,甚至只针对其中一个单独的模块,概念或者想法.最常见的评估的方式是针对不同的场景对一个架构进行评估,但是我们也可以通过实验或者发现技术决策的风险来做评估.*
