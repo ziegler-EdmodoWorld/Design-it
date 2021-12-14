@@ -174,3 +174,11 @@ How do you know if a design decision will solve the problem? When we embrace the
 Evaluation is not an all or none proposition. We can evaluate all or part of the architecture, even only a single model, concept, or idea. The most common approach is to walk through a piece of the architecture with different scenarios, but we can also test design decisions directly by running experiments or examining the risks surrounding a decision.
 
 *评估那种要么不做要么全做的事情,我们可以对架构的部分进行评估,甚至只针对其中一个单独的模块,概念或者想法.最常见的评估的方式是针对不同的场景对一个架构进行评估,但是我们也可以通过实验或者发现技术决策的风险来做评估.*
+
+The evaluate mindset comes in handy when we want to verify the planned or built architecture, but this is only the beginning. This mindset will help us inspect anything we make and decide whether that artifact is serving our need.
+
+*基于评估的思维在我们想验证计划或者创建架构的时候就能派上用场,但这只是开始,这种思维帮组我们深入了解各种我们的输出和决策,不管它们是不是有用的.*
+
+Using design mindsets requires a process with a tight feedback loop so we can quickly move from one mindset to the next. In the next section, we’ll learn how to use a simple, iterative approach to help us choose and use design mindsets.
+
+*使用设计思维需要一种能及时反馈的流程闭环,这样我们就能快速的在不同的思维模式之间切换,在下一节中我们会学到怎样使用简单,可迭代的方式来帮助我们选择和使用设计思维.*
