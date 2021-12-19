@@ -182,3 +182,12 @@ The evaluate mindset comes in handy when we want to verify the planned or built 
 Using design mindsets requires a process with a tight feedback loop so we can quickly move from one mindset to the next. In the next section, we’ll learn how to use a simple, iterative approach to help us choose and use design mindsets.
 
 *使用设计思维需要一种能及时反馈的流程闭环,这样我们就能快速的在不同的思维模式之间切换,在下一节中我们会学到怎样使用简单,可迭代的方式来帮助我们选择和使用设计思维.*
+
+### Think, Do, Check
+Every day, for as long as we work on a software system, we learn interesting things about the software. Every new thing we learn might force the architecture to evolve to reconcile the new information. For us to keep tabs on this ever changing landscape, we need a design approach with a tight feedback loop that gives us the opportunity to change our mindsets often.
+
+*每天,只要我们从事软件系统的开发,我们就会学到有关软件的有趣的东西.每件新学到的东西都可能会推动软件架构融入我们新获取的知识.为了让我们能追踪这些不断变化的状态,我们需要一种经过设计的方式来形成一个紧密反馈循环使得我们有机会经常改变我们的想法.*
+
+There are three steps in our approach: think, do, and check. Each iteration of the think-do-check cycle focuses on a particular design mindset.
+
+*在这种方法中包含三个步骤:想,做和检查.每个迭代中的不同步骤都需要一个特定的设计思维来支持.*
