@@ -191,3 +191,27 @@ Every day, for as long as we work on a software system, we learn interesting thi
 There are three steps in our approach: think, do, and check. Each iteration of the think-do-check cycle focuses on a particular design mindset.
 
 *在这种方法中包含三个步骤:想,做和检查.每个迭代中的不同步骤都需要一个特定的设计思维来支持.*
+
+### Iterate to Learn
+An iteration can be as brief as a few minutes or as long as a few days. We prefer shorter cycles over longer ones, but sometimes more time is required for in-depth research. Every iteration follows the same steps, though the execution will vary depending on the design mindset we adopt.
+
+*一次迭代可以是几分钟也可以是几天,我们更喜欢利用短时间的循环,但是有时需要深入的调查还是需要更多的时间.每次迭代都遵循同样的步骤,但是具体的执行方式会跟我们所依赖的设计思维相辅相成.*
+
+#### Think
+What do we hope to learn? What questions do we need answered? What are our top risks? Thinking involves creating a plan to learn what we need to answer specific questions or reduce risks.
+
+*我们想学习到什么?我们想寻求什么问题的答案?最大的风险是什么?思考会驱使我们去制定对应的计划来弄清楚我们要搞清楚的具体问题或者降低风险.*
+
+#### Do
+Execute the plan. Create something tangible that quickly and cheaply uncovers information needed to check our thinking and share our ideas.
+
+*执行计划就是制定一些可见且能以快速廉价的方式来获取印证我们想法的信息或者分享我们的观点.*
+
+#### Check
+Critically examine what we accomplished during the do step so we can decide our next move. The insights coming out of the check step tell us what to do next. Repeat at the think step.
+
+*认真的回顾我们在执行这一步所取得的成果并决定下一步要做的事.在回顾这步中我们获取的洞察力可以帮助我们找到前进的方向,然后再次回到思考这步.*
+
+A software system is never finished; it is only released. Since software is never done, our design approach has no end. Anytime you need to revisit some aspect of the architecture, whether it’s to evolve an existing design or create something new, the same approach applies.
+
+*一个软件系统的开发只会停止而永远也不会结束,因为软件是永远也不会真正的完成所有的需求,所以我们的设计也没有尽头.任何时间你都需要重新去审视软件架构,不管是评估一个已有的设计还是创造新的设计,都是适用的.*
