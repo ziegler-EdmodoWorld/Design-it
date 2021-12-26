@@ -215,3 +215,13 @@ Critically examine what we accomplished during the do step so we can decide our 
 A software system is never finished; it is only released. Since software is never done, our design approach has no end. Anytime you need to revisit some aspect of the architecture, whether it’s to evolve an existing design or create something new, the same approach applies.
 
 *一个软件系统的开发只会停止而永远也不会结束,因为软件是永远也不会真正的完成所有的需求,所以我们的设计也没有尽头.任何时间你都需要重新去审视软件架构,不管是评估一个已有的设计还是创造新的设计,都是适用的.*
+
+### Adopt Mindsets in Any Order
+
+Think of the four design mindsets like four tool boxes, each containing tools tuned for a particular type of design work. When the need arises, embrace the mindset required to learn more about the world or reduce a risk.
+
+*可以将四种设计思维堪称四个工具箱,每个工具箱都装着适合某种设计工作的工具,当有需求的时候找到需要的思维方法来探索这个世界活着降低风险.*
+
+In the understand mindset, we’ll focus on stakeholders needs and how to specify those needs as requirements. In the explore mindset, we’ll brainstorm ways to solve the problem as we understand it by looking at patterns, technology, and other solutions. In the make mindset, we’ll model the system so we have something concrete to reason about and share. In the evaluate mindset, we’ll put our models and requirements to the test.
+
+*在"理解"这种思维方法中,我们会聚焦在相关人的需求和如果把他们的需求转化为开发需求.在"探索"这种思维中,我们会通过头脑风暴,采取深入了解问题的规律,技术以及其他解决方案来解决问题."实践"的思考方式会让我们对系统建立模型使得我们有具体的东西可以用来探究和分享.在"回溯"这种思维方式中,我们会把我们建立的模型和需求进行验证.*
