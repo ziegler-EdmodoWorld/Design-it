@@ -225,3 +225,11 @@ Think of the four design mindsets like four tool boxes, each containing tools tu
 In the understand mindset, we’ll focus on stakeholders needs and how to specify those needs as requirements. In the explore mindset, we’ll brainstorm ways to solve the problem as we understand it by looking at patterns, technology, and other solutions. In the make mindset, we’ll model the system so we have something concrete to reason about and share. In the evaluate mindset, we’ll put our models and requirements to the test.
 
 *在"理解"这种思维方法中,我们会聚焦在相关人的需求和如果把他们的需求转化为开发需求.在"探索"这种思维中,我们会通过头脑风暴,采取深入了解问题的规律,技术以及其他解决方案来解决问题."实践"的思考方式会让我们对系统建立模型使得我们有具体的东西可以用来探究和分享.在"回溯"这种思维方式中,我们会把我们建立的模型和需求进行验证.*
+
+Mindsets shift frequently and quickly. During a single conversation, we might change mindsets several times. During a workshop, we will create situations that force participants to adopt new mindsets so that we can arrive at a desirable outcome. You’ll see an example of this in Chapter 9, Host an Architecture Design Studio.
+
+*我们的想法经常会变化,在一次交谈中我们就可能多次改变想法.在一次工作会议中,我们会创造条件来迫使与会者接受我们的新的想法,这样大家就在会议输出上可以达成一致.你会在第九章<<主持一个架构设计会议>>中看到具体的例子.*
+
+Experienced architects are often unaware that they attack architecture from varying perspectives. They fly by instinct and adopt different mindsets intuitively (thanks to years of practice). Awareness of the four design mindsets gives us new techniques for getting out of a rut. If you get stuck, choose a new mindset to get yourself unstuck.
+
+*有经验的架构师经常会在不经意中从很多方面改变架构设计,他们会依靠直觉,以及本能地采用不同的思考方式(多亏了长年的实践).对四种思考方式的使用让我们有了新的方法来推进和追溯我们的工作,你可以选择一种新的思考方式来避免被困住.*
