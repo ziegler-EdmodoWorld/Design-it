@@ -233,3 +233,37 @@ Mindsets shift frequently and quickly. During a single conversation, we might ch
 Experienced architects are often unaware that they attack architecture from varying perspectives. They fly by instinct and adopt different mindsets intuitively (thanks to years of practice). Awareness of the four design mindsets gives us new techniques for getting out of a rut. If you get stuck, choose a new mindset to get yourself unstuck.
 
 *有经验的架构师经常会在不经意中从很多方面改变架构设计,他们会依靠直觉,以及本能地采用不同的思考方式(多亏了长年的实践).对四种思考方式的使用让我们有了新的方法来推进和追溯我们的工作,你可以选择一种新的思考方式来避免被困住.*
+
+### Plot Your Course: Think-Do-Check and Mindsets in Action
+
+Let’s see a concrete example of how the think-do-check cycle and design mindsets might play out in practice. Say a stakeholder just gave us a new constraint and this increases the risk that the architecture will be unable to satisfy performance requirements.
+
+*让我看一个具体的计划-实施-检验的迭代和思维方式在实际应用中的例子,假设有人刚给了我们一个新的需求但是这会导致未来可能架构无法满足性能需求.*
+
+Think. We know system performance is important, but we don’t know what it means to have good performance. Since we need information about the problem, let’s adopt the understand mindset. Looking through some practices in Chapter 14, ​Activities to Understand the Problem​, we decide to capture quality attribute scenarios.
+
+*思考:我们知道系统性能是很重要的,但是我们可能不知道怎样定义系统有好的性能.因为我们需要足够的参考来定位问题,让我们使用"理解"这个思考方式,看看第十四章<怎样理解问题>里面的一些实践,这会让我们决定应该关注质量属性相关的场景.*
+
+Do. We brainstorm some performance scenarios and record them in a document.
+
+*实施:我们会通过头脑风暴来把想到的关于性能的场景记录下来.*
+
+Check. The team and stakeholders review the scenarios and provide feedback.
+
+*检验:团队所有相关人员一起审查这些场景并提出反馈.*
+
+Based on what we learned, new risks arise. Can we achieve the performance quality attribute scenarios given the new constraint?
+
+*基于我们取的的进展,会有新的问题出现.那就是我们能够满足新的需求所涉及的相关质量属性吗?*
+
+Think. Since we need to verify that our decisions promote a specific quality attribute let’s adopt the evaluate mindset. We plan an experiment so we can directly test the constraint’s impact on performance.
+
+*思考:因为我们需要去验证我们提出的为了满足某个质量属性的决策,我们可以采用评估这种思维方式.我们可以创建一个实验来直接的测试新需求对性能的影响.*
+
+Do. We write some simple scripts to drive existing parts of the software system and collect data. We run the experiment.
+
+*实施:我们可以编写一些简单的脚本来运行软件系统已经存在的部分同时收集数据,这就是我们刚提到的实验.*
+
+Check. With data in hand, we examine the results and conclude that the new constraint negatively impacts performance but only by a few 100 milliseconds.
+
+*检验:用了收集的数据,我们就可以检查结果同时发现新的需求只会对性能产生小于100毫秒的负面影响.*
