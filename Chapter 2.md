@@ -267,3 +267,16 @@ Do. We write some simple scripts to drive existing parts of the software system 
 Check. With data in hand, we examine the results and conclude that the new constraint negatively impacts performance but only by a few 100 milliseconds.
 
 *检验:用了收集的数据,我们就可以检查结果同时发现新的需求只会对性能产生小于100毫秒的负面影响.*
+
+We think we’ve done a thorough job, but performance is funny. Hurting performance might not be a big deal until it degrades too
+ much. We need to share these results with our stakeholders and discuss the implications of the new constraint.
+
+*我们认为自己已经完成了一项坚实的工作,不是性能问题是很有趣的.一般性能的降低只有在产生特别明显的现象的时候才会被发现.我们需要和相关人员共享这些结果然后一起讨论新需求的影响.*
+
+Think. Since making ideas tangible facilitates communication, we’ll adopt the make mindset and create a simple prototype. We want stakeholders to experience the impact of the new constraint. Graphs aren’t enough.
+
+*思考:将想法可视化是非常有助于交流的,我们会采用"行动"的方式来创建一个简单的原型,希望相关人员能感受到新需求所带来的影响,因为只依靠图像是不够的.*
+
+Do. We develop a throwaway prototype that demonstrates the application workflow and simulates different assumptions about performance.
+
+*行动:我们会开发一个一次性的原型来展示应用的工作流程同时模拟关于性能在不同场景下的不同表现.*
