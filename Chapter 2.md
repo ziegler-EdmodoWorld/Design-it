@@ -280,3 +280,28 @@ Think. Since making ideas tangible facilitates communication, we’ll adopt the 
 Do. We develop a throwaway prototype that demonstrates the application workflow and simulates different assumptions about performance.
 
 *行动:我们会开发一个一次性的原型来展示应用的工作流程同时模拟关于性能在不同场景下的不同表现.*
+
+Check. We give the prototype to our stakeholders and explain why the performance of the system was impacted. On paper, a few 100 milliseconds is tiny, but experiencing the slowdown firsthand shows that this dip in performance isn’t acceptable.
+
+*检验:我们相相关人员展示我们的原型并且解释为什么系统的性能受到了影响.在纸面上的几百毫秒的性能损失不会引人注意,但是一旦在系统中真实的遇到这种性能下降的问题人们就会发现这是完全不可接受的.*
+
+The prototype helped our stakeholders learn something about the problem nobody knew was important until now. Next, we’ll adopt the understand mindset and refine our new requirements. We check our understanding a few minutes in the same meeting by selecting the explore mindset. And the cycle continues.
+
+*我们创建的原型帮助相关人员意识到之前从来没有注意到的那些重要问题.然后我们会采用"理解思维"来重新定义我们的新需求.我们在会议上花几分钟来梳理我们的理解然后在进行下一次迭代.*
+
+The think-do-check cycle is extremely flexible. How you use it depends on the complexity and size of the system, your team’s size and skills, and your experience with having simultaneous design initiatives in flight.
+
+*“思考-行动-回溯”的循环是非常灵活的,如何使用这种方法完全取决于系统的复杂性和大小以及团队的大小和水平,同时也会考验你实时的做出相对应的设计的经验和能力.*
+
+### Next Up
+Design thinking gives us a way to connect the highly technical world of software development with the humans affected by the software we build. The four HART principles are the means by which we’ll give our software heart (pun 100 percent intended). Design mindsets are the way we’ll decide what needs to be done to help our stakeholders.
+
+*设计思维让我们能把高度抽象的软件开发的技术领域和相关的人为因素联系在一起.之前提到的四种HART原则就是能赋予软件灵魂的方法.设计思维就是来找出需要帮助相关人士解决问题的核心.*
+
+Now that we’ve covered the theory, it’s time to get down to business.
+
+*现在我们已经介绍完了理论知识,该把理论应用到现实中了.*
+
+Since the invention of software, we have debated how much architecture design should happen up front and how much can emerge as we implement a solution. Like any discussion about extremes, the real answer lies somewhere in the middle. In the next chapter, you’ll see how to define a design strategy appropriate to your situation and choose design mindsets by considering the risks in the software system.
+
+*自从软件被发明以来,人们对于哪些软件架构应该提前做出设计,哪些架构应该在实现过程中再考虑争论不休.就像然后针对极端情况的争论,最终的结论都是中立的.在下一章中,你会看到你如何定义一种正确的设计策略同时针对系统风险来选择对应的设计思维方法.*
